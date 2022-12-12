@@ -1,2 +1,1 @@
-# githubintro
-learning to use github
+### I upload my notes here :)
