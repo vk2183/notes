@@ -1,6 +1,6 @@
 # Lurking Variables
 ## What Are Lurking Variables?
-- Lurking Variables are kind of irrelavent peice of data that can actually have a huge impact on the statistical model
+- Lurking Variables are the peice of data that can actually have a huge impact on the statistical model
 - It is a variable that is neither the explanatory variable nor the response variable but has a relationship (e.g. may be correlated) with the response and the explanatory variable
 -  It is not considered in the study but could influence the relationship between the variables in the study.
 #### Simpsons Paradox :
