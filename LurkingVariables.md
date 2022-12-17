@@ -37,7 +37,7 @@ Here are few tips to find the Lurking variables
 - Look at other studies and examples of lurking variables in them. 
 - Go back over your own research. See if there’s more of a positive correlation between your dependent variable with an extraneous data point than the independent variable you chose at first. 
 - Try to do this before you even run your initial study if possible, as that will go the furthest in eliminating the potential amount of damage.
-- 
+
 **Rerun your study.** 
 - If you think you’ve found an influential lurking variable, consider running a parallel study with this variable to home in on its potential causative importance. 
 - The goal of statistical research is to find the most likely cause of why data appears the way it does in any format. 
