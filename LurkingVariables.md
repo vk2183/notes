@@ -24,14 +24,17 @@ Now looking at these values we can conclude that hospital B is better than A.
 
 ## How To Identify A Lurking Variable:
 Here are few tips to find the Lurking variables
+
 **Assess your data.** 
 - Go through all your dependent and independent variables, coefficients, and other inputs. 
 - See if there are any possible elements you might be missing in your research. 
 - Consider utilizing a linear or nonlinear regression model (depending on which is suitable) after you complete your modeling, as this can help you eliminate any residual issues with your study.
+- 
 **Define the lurking variable**. 
 - Look at other studies and examples of lurking variables in them. 
 - Go back over your own research. See if there’s more of a positive correlation between your dependent variable with an extraneous data point than the independent variable you chose at first. 
 - Try to do this before you even run your initial study if possible, as that will go the furthest in eliminating the potential amount of damage.
+- 
 **Rerun your study.** 
 - If you think you’ve found an influential lurking variable, consider running a parallel study with this variable to home in on its potential causative importance. 
 - The goal of statistical research is to find the most likely cause of why data appears the way it does in any format. 
