@@ -14,8 +14,8 @@ Corr_Matrix = round(df.corr(),2)
 print(Corr_Matrix)
 ```
 ### Heat Map:
-We use seaborn to visualise the correlation matrix in a better way, refer to the below image
-[alt text](https://www.w3schools.com/datascience/img_stat_heatmap.png)
+We use seaborn to visualise the correlation matrix in a better way, refer to this 
+[image](https://www.w3schools.com/datascience/img_stat_heatmap.png)
 The closer the correlation coefficient is to 1, the greener the squares get.
 The closer the correlation coefficient is to -1, the browner the squares get.
 #### Python code for the above is:
