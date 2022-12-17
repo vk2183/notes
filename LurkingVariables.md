@@ -17,9 +17,12 @@ Lets say, hospital A had 100 at risk patients, out of which 30 survived.Whereas,
 Now looking at these values we can conclude that hospital B is better than A.
 
 ## Why Are Lurking Variables Important?
+
 - **Lurking variables skew data -** Till you identify the lurking variable, there is a risk of an unknown third variable skewing your statistical analysis.
   - **Eg -** we notice an increase in drownings and icecream sales at the same time. Lurking variable here can be hot weather which kinda makes people want to swim as well as eat icecream. So, hotter weather might be the more causative factor.
+
 - **Lurking variables inspire new research -** Through regression analysis and other methodologies, we can both identify and utilize lurking variables to formulate new hypotheses. Determining causation can be difficult but the more variables we're aware of, better chances we have to find reach the root of the problem
+
 - **Lurking variables help you solve problems -** When the independent and dependent variables of the data set don’t seem to correlate. Identifying a lurking variable can go a long way to show what might be going wrong in our experimental design. They can act as explanatory variables for previously unreadable problems.
 
 ## How To Identify A Lurking Variable:
