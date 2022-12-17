@@ -32,7 +32,7 @@ Here are few tips to find the Lurking variables
 - Go through all your dependent and independent variables, coefficients, and other inputs. 
 - See if there are any possible elements you might be missing in your research. 
 - Consider utilizing a linear or nonlinear regression model (depending on which is suitable) after you complete your modeling, as this can help you eliminate any residual issues with your study.
-- 
+
 **Define the lurking variable**. 
 - Look at other studies and examples of lurking variables in them. 
 - Go back over your own research. See if there’s more of a positive correlation between your dependent variable with an extraneous data point than the independent variable you chose at first. 
