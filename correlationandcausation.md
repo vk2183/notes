@@ -1,5 +1,5 @@
 # Correlation and Causation
-## Correlation:
+# Correlation:
 It is a statistical technique which helps us know the relationship between two variables
 - It is a numerical value which lies between -1 to 1
 - Lets say A and B are two variables
@@ -34,11 +34,11 @@ square=True
 
 plt.show()
 ```
-## Causation
+# Causation
 When one event causes the creation of another event, its called Causation. also known as the cause and effect relationship.
 Eg : Snowfall causes decrease in temperature, vehicles cause pollution
 
-# So what is the difference between correlation and causation?
+## So what is the difference between correlation and causation?
 Even tho two variables are correlated, we cannot say that are causated.
 Eg: 
 - smoking increases the risks of cancer  - causation
