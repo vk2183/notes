@@ -15,7 +15,7 @@ print(Corr_Matrix)
 ```
 ### Heat Map:
 We use seaborn to visualise the correlation matrix in a better way, refer to this 
-[example image](https://www.w3schools.com/datascience/img_stat_heatmap.png)
+![example image](https://www.w3schools.com/datascience/img_stat_heatmap.png)
 
 The closer the correlation coefficient is to 1, the greener the squares get.
 The closer the correlation coefficient is to -1, the browner the squares get.
