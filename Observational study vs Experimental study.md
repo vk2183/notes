@@ -1,12 +1,12 @@
 # Experimental vs Observational Study
 It is extremely important for us to know how the study was designed to understand the quality of the study
+
 ## Observational Study:
 - observer observes whats happening
 - measures things of interest and draws conclusions
 - Observes a part of population
 - We donot influence or change the conditions
  - **Eg :** Observing moving cars on the main road, An opinion survey asking questions about how people liked the most recent documentary
-
 - Observational studies are less expensive than exp studies
 - Observational studies may take years or even decades to complete the study.
 
